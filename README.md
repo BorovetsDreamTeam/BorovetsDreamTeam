@@ -33,19 +33,13 @@ Our GitHub presence helps us:
 ## 🌐 Official Links
 
 📍 **Website:**  
-https://borovetsdreamstudio.com  
-
-📸 **Instagram:**  
-https://instagram.com/borovetsdreamstudio  
-
-📘 **Facebook:**  
-https://facebook.com/borovetsdreamstudio  
+https://www.borovetsdream.com  
 
 🏨 **Booking.com:**  
-*(Add your real listing link if you want)*  
+https://www.booking.com/hotel/bg/borovets-dream-studio.bg.html  
 
 🏠 **Airbnb:**  
-*(Add your listing link if available)*  
+https://airbnb.com/h/borovetsdreamstudio  
 
 ---
 
