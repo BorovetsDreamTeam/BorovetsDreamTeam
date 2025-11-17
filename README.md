@@ -23,7 +23,7 @@ We focus on comfort, cleanliness, warmth, and an authentic mountain experience.
 
 Our GitHub presence helps us:
 
-- Develop and enhance **borovetsdreamstudio.com**  
+- Develop and enhance **borovetsdream.com**  
 - Communicate with guests and visitors  
 - Keep our website fast, clean, and secure  
 - Maintain comment moderation and automation  
