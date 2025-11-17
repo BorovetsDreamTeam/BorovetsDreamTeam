@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BorovetsDreamTeam/BorovetsDreamTeam/main/logo.png" alt="Borovets Dream Studio" width="180"/>
+  <img src="https://raw.githubusercontent.com/BorovetsDreamTeam/BorovetsDreamTeam/main/logo.jpg" alt="Borovets Dream Studio" width="180"/>
 
 # 🌲 Borovets Dream Studio Team  
 ### Official Support & Management Account
